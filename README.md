@@ -17,6 +17,7 @@ Open 2 terminals
 
 Terminal 1
 ```
+mkfifo comm_pipe
 python server.py
 ```
 
